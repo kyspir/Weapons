@@ -6,5 +6,5 @@ SwordBehavior::SwordBehavior()
 }
 
 void SwordBehavior::useWeapon() {
-    cout << "SWORD ATTACK!" << endl;
+    cout << "SWORD attack" << endl;
 }
