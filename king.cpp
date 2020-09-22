@@ -2,5 +2,5 @@
 
 King::King()
 {
-    weapon = new KnifeBehavior();
+    weapon = new SwordBehavior();
 }
